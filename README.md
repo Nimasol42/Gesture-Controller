@@ -1,4 +1,4 @@
-# Gesture Controller 
+# Gesture Controller Pro
 
 ## Overview
 
@@ -33,7 +33,7 @@ The application is built around a state-driven architecture, which isolates gest
 
 1.  **Clone the repository:**
     ```bash
-    git clone git remote add origin https://github.com/Nimasol42/Gesture-Controller
+    git clone [https://github.com/Nimasol42/Gesture-Controller.git](https://github.com/Nimasol42/Gesture-Controller.git)
     cd Gesture-Controller
     ```
 
@@ -88,6 +88,18 @@ The program will start in the main menu. Use the "pinch" gesture to select an op
 - `screen_brightness_control`
 - `pyautogui`
 - `pycaw`
+
+---
+
+## Contributing & Contact
+
+Contributions, issues, and feature requests are welcome.
+
+- For bug reports or feature suggestions, please open an **issue** on the GitHub repository.
+- If you would like to contribute to the code, please feel free to **fork** the repository and submit a **pull request**.
+
+For other inquiries or direct contact, you can reach me at:
+`nimasoltani.ce@gmail.com` 
 
 ---
 

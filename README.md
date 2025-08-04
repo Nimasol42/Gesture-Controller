@@ -33,8 +33,8 @@ The application is built around a state-driven architecture, which isolates gest
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Nimasol42/YOUR_REPOSITORY_NAME.git](https://github.com/Nimasol42/YOUR_REPOSITORY_NAME.git)
-    cd YOUR_REPOSITORY_NAME
+    git clone git remote add origin https://github.com/Nimasol42/Gesture-Controller
+    cd Gesture-Controller
     ```
 
 2.  **Set up a virtual environment (recommended):**

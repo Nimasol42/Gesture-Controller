@@ -1,4 +1,4 @@
-# Gesture Controller Pro
+# Gesture Controller
 
 ## Overview
 
